@@ -1,0 +1,22 @@
+.container {
+    background-color: rgba(250, 250, 250, 0.007);
+}
+
+.body {
+    background-color: rgb(238, 1, 1);
+    margin: 0px;
+    padding: 0px;
+    text-align-last: center;
+}
+
+.presentacion {
+    background-color: rgb(255, 255, 255);
+    margin: 0px;
+    padding: 0px;
+}
+
+.header {
+    background-color: rgb(77, 83, 88);
+margin: 0px;
+padding: 0px;
+}
